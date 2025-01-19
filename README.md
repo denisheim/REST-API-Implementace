@@ -1,6 +1,6 @@
 # Flask + Node.js REST API
 
-This repository contains a hybrid REST API built with Flask (Python) and Node.js (JavaScript).  
+The project uses REST API built with Flask and Node.js.  
 It interacts with a MySQL database to manage data for firms, events, and contacts.
 
 ### Features
